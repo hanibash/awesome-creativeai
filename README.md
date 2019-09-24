@@ -14,13 +14,12 @@ AI is the science and engineering of making intelligent machines, especially int
 - [Cool Projects](#cool-projects)
 - [Video Demos](#video-demos)
 - [Links to Blogs](#blog-links)
-
 <!-- /MarkdownTOC -->
 
-
-<a name="cool-projects" />
 ## Cool Projects
+
 * [Colornet](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images.
+
 * [Let there be Color!: Automatic colorization of grayscale images](https://github.com/satoshiiizuka/siggraph2016_colorization) - Convert black and white images into color. 
 * [Neural Doodle](https://github.com/alexjc/neural-doodle) - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces.
 * [Biaxial recurrent neural network for music composition](https://github.com/hexahedria/biaxial-rnn-music-composition) - This code implements a recurrent neural network trained to generate classical music.
@@ -43,7 +42,6 @@ AI is the science and engineering of making intelligent machines, especially int
 * [Bots Burgers](https://github.com/somaticapi/botsburgers) - This model creates burger names using wit and puns. 
 
 
-<a name="video-demos" />
 ## Video Demos
 * [A neural network groups scenes from different films by setting](https://www.youtube.com/watch?v=EiInSD-u9iA) - This model automatically indexes the contents of each frame of a video so that you can search and filter video scenes by objects, setting, actors, and more. Save time searching through hundreds of hours of archived footage by instantly queing the scenes that you need. 
 * [A computer learning and playing Super Mario Bros!](https://www.twitch.tv/givemeallyourcats) - Look at title for description.
@@ -55,7 +53,6 @@ AI is the science and engineering of making intelligent machines, especially int
 * [WADE Pre-Alpha: Artificial intelligence that does everything!](https://www.youtube.com/watch?v=wqdhiWltjcU) - MAKO is a multifunctional software program capable of opening programs, typing anything you desire, writing reports on anything, it employs advanced user interface and voice input, it manages almost everything in your life, especially technology matters.
 
 
-<a name="blog-links" />
 ## Links to Blogs
 * [Kurzweil - Accelerating Intelligence](http://www.kurzweilai.net/blog)
 * [Singularity Weblog](https://www.singularityweblog.com/blog)
@@ -64,7 +61,6 @@ AI is the science and engineering of making intelligent machines, especially int
 * [Artificial Intelligence Blog](http://artent.net/)
 
 
-<a name="contributions" />
 ## Contributions
 Your contributions are always welcome!
 
@@ -77,7 +73,6 @@ Also, when you noticed that listed repository should be deprecated.
 More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md)
 
 
-<a name="credits" />
 ## Credits
 
 
